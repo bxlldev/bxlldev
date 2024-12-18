@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://gomycode.com/ng/wp-content/uploads/sites/29/2024/03/dev-ops-gif-dr.gif" />
+  <img height="500" src="https://gomycode.com/ng/wp-content/uploads/sites/29/2024/03/dev-ops-gif-dr.gif" />
 </div>
 
 ###
