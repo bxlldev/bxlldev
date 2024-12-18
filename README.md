@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/28161925/DevOps-min.gif" />
+  <img height="300" src="https://gomycode.com/ng/wp-content/uploads/sites/29/2024/03/dev-ops-gif-dr.gif" />
 </div>
 
 ###
