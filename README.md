@@ -71,11 +71,15 @@
 
 <h3 align="left">🏆 Certifications</h3>
 
+<div align="left">
+
 - **Security in DevSecOps Workshop** x Scooldio  
 - **Cyber Security Fundamentals** x True IDC  
 - **AWS Security Services** x FutureSkill  
 - **DevOps Beginner to Advanced** x Udemy  
 - [More Certificates](https://drive.google.com/drive/folders/1F12HLnezmAdZ6Ia5MYzQwrwl_v7iNM3R?usp=sharing)
+
+</div>
 
 ###
 
@@ -83,8 +87,12 @@
 
 <h3 align="left">🌐 Find Me Online</h3>
 
+<div align="left">
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/thanachart-saejueng)  
 - 📂 [GitHub](https://github.com/bxlldev)  
-- ✉️ [Email](mailto:thanachart.devs@gmail.com)  
+- ✉️ [Email](mailto:thanachart.devs@gmail.com)
+
+</div>
 
 ###
