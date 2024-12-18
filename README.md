@@ -60,12 +60,6 @@
 <h3 align="left">🔥 My Stats :</h3>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bxlldev&show_icons=true&theme=dark" height="180" alt="GitHub Stats" /> <img </div>
 
-###
-
-<h3 align="left">🔥 My Steak Graph :</h3>
-<div align="center"> <img src="https://streak-stats.demolab.com/?user=bxlldev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak Graph" /> </div>
-
-###
 
 ###
 
