@@ -63,7 +63,7 @@
 ###
 
 <h3 align="left">🔥 My Steak Graph :</h3>
-<div align="center"> <img src="https://streak-stats.demolab.com/?user=bxlldev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="Streak Graph" /> </div>
+<div align="center"> <img src="https://streak-stats.demolab.com/?user=bxlldev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak Graph" /> </div>
 
 ###
 
@@ -86,13 +86,5 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/thanachart-saejueng)  
 - 📂 [GitHub](https://github.com/bxlldev)  
 - ✉️ [Email](mailto:thanachart.devs@gmail.com)  
-
-###
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
