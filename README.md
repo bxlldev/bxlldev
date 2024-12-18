@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-developer&psig=AOvVaw31mBEpbZi-3STpOR8Tcadi&ust=1734584493187000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOD_j_jEsIoDFQAAAAAdAAAAABAE"  />
+  <img height="150" src="<div align="center"> <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" /> </div>"  />
 </div>
 
 ###
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left"> I'm <strong>Thanachart Saejueng (Billy) </strong>! <br><br> - 🔭 I’m working as a **DevSecOps Engineer** at Evokehub Co., Ltd.<br> - 🚀 I specialize in **Cloud Infrastructure**, **DevOps CI/CD Pipelines**, and **Security in DevSecOps**.<br> - 📚 I'm passionate about **Cloud Native technologies** and improving security practices.<br> - 🌐 You can find more of my projects on my <a href="https://github.com/bxlldev">GitHub</a>.<br> - 💬 Reach me via <a href="mailto:thanachart.devs@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/thanachart-saejueng">LinkedIn</a>. </p>
+<p align="left"> I'm <strong>Thanachart Saejueng (Billy) </strong>! <br><br> - 🔭 I’m working as a DevSecOps Engineer at Evokehub Co., Ltd.<br> - 🚀 I specialize in Cloud Infrastructure, DevOps CI/CD Pipelines, and Security in DevSecOps.<br> - 📚 I'm passionate about Cloud Native technologies and improving security practices.<br> - 🌐 You can find more of my projects on my <a href="https://github.com/bxlldev">GitHub</a>.<br> - 💬 Reach me via <a href="mailto:thanachart.devs@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/thanachart-saejueng">LinkedIn</a>. </p>
 
 ###
 
