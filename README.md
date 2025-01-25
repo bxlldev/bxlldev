@@ -66,6 +66,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo"  />
   <img width="12" />
+  <img src="https://www.excentia.es/img/sonarsource-products/logo-sonarqube-cloud.png" height="40" alt="sunarcloud logo"  />
+  <img width="12" />
+  <img src="https://images.seeklogo.com/logo-png/44/1/snyk-logo-png_seeklogo-446863.png?v=1957917027868315904" height="40" alt="snyk logo"  />
+  <img width="12" />
+  <img src="https://b2389050.smushcdn.com/2389050/wp-content/uploads/2023/03/OWASP-ZAP-1.png?lossy=1&strip=1&webp=1" height="40" alt="owaspzap logo"  />
+  <img width="12" />
   
 </div>
 
