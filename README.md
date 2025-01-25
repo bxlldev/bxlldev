@@ -68,7 +68,7 @@
   <img width="12" />
   <img src="https://www.excentia.es/img/sonarsource-products/logo-sonarqube-cloud.png" height="40" alt="sunarcloud logo"  />
   <img width="12" />
-  <img src="https://globalcybersecuritynetwork.com/wp-content/uploads/2023/08/snyk-logo.png" height="40" alt="snyk logo"  />
+  <img src="https://monkigras.com/wp-content/uploads/2016/12/snyk-logo.png?w=1024" height="40" alt="snyk logo"  />
   <img width="12" />
   <img src="https://b2389050.smushcdn.com/2389050/wp-content/uploads/2023/03/OWASP-ZAP-1.png?lossy=1&strip=1&webp=1" height="40" alt="owaspzap logo"  />
   <img width="12" />
