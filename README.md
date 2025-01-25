@@ -87,6 +87,7 @@
 
 <div align="left">
 
+- **DevSecOps with Azure DevOps: Secure CI/CD with Azure DevOps** x Udemy
 - **Security in DevSecOps Workshop** x Scooldio  
 - **Cyber Security Fundamentals** x True IDC  
 - **AWS Security Services** x FutureSkill  
