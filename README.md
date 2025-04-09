@@ -88,6 +88,7 @@
 <div align="left">
 
 - **DevSecOps with Azure DevOps: Secure CI/CD with Azure DevOps** x Udemy
+- **Cyber Security ClassNest Gen 2** x KBTG ClassNest
 - **Security in DevSecOps Workshop** x Scooldio  
 - **Cyber Security Fundamentals** x True IDC  
 - **AWS Security Services** x FutureSkill  
