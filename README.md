@@ -87,8 +87,12 @@
 
 <div align="left">
 
+- **M.A.D ClassNest SS2 - AI Fundamentals and Applications** x KBTG
+- **M.A.D ClassNest SS2 - GenAI Application** x KBTG
+- **M.A.D ClassNest SS2 - Human AI Interaction** x KBTG
+- **M.A.D ClassNest SS2 - Predictive AI** x KBTG
 - **DevSecOps with Azure DevOps: Secure CI/CD with Azure DevOps** x Udemy
-- **Cyber Security ClassNest Gen 2** x KBTG ClassNest
+- **Cyber Security ClassNest Gen 2 (Advanced)** x KBTG ClassNest
 - **Security in DevSecOps Workshop** x Scooldio  
 - **Cyber Security Fundamentals** x True IDC  
 - **AWS Security Services** x FutureSkill  
