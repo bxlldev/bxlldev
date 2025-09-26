@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left"> I'm <strong>Thanachart Saejueng (Billy) </strong>! <br><br> - 🔭 I’m working as a DevSecOps Engineer at Evokehub Co., Ltd.<br> - 🚀 I specialize in Cloud Infrastructure, DevOps CI/CD Pipelines, and Security in DevSecOps.<br> - 📚 I'm passionate about Cloud Native technologies and improving security practices.<br> - 🌐 You can find more of my projects on my <a href="https://github.com/bxlldev">GitHub</a>.<br> - 💬 Reach me via <a href="mailto:thanachart.devs@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/thanachart-saejueng">LinkedIn</a>. </p>
+<p align="left"> I'm <strong>Thanachart Saejueng (Billy) </strong>! <br><br> - 🔭 I’m working as a DevSecOps Engineer at Evokehub Co., Ltd.<br> - 🚀 I specialize in DevSecOps, Cloud Infrastructure, and Security Compliance (ISO27001 Implementation).<br> - 📚 I'm passionate about Cloud Native technologies and improving security first approach.<br> - 🌐 You can find more of my projects on my <a href="https://github.com/bxlldev">GitHub</a>.<br> - 💬 Reach me via <a href="mailto:thanachart.devs@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/thanachart-saejueng">LinkedIn</a>. </p>
 
 ###
 
